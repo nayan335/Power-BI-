@@ -17,11 +17,8 @@ Interactive filters and slicers
 KPI tracking (e.g., revenue, sales, growth)
 Dynamic charts and visualizations
 Clean and intuitive dashboard design
-🔹 Key Insights
-Identified top-performing categories/segments
-Highlighted trends over time
-Provided data-driven insights for business decisions
-🔹 Files Included
-.pbix file (Power BI dashboard)
-Dataset (if included)
-Dashboard screenshot
+<img width="1484" height="830" alt="Screenshot 2026-04-22 121915" src="https://github.com/user-attachments/assets/b29329ae-e523-4b6f-b490-2cc6c03123d3" />
+
+
+
+
